@@ -1,0 +1,17 @@
+
+    html{
+      
+      
+    }
+    img{
+      width: 50%;
+      height: auto;
+    }
+    
+    body {
+    background-image: url(assets/images/bagground.gif);
+    background-size: cover;
+       
+    }
+
+    
